@@ -1,0 +1,21 @@
+.content h1{
+    font-size: 80px;
+    font-family: Impact;
+    color: black;
+
+}
+.content p{
+    font-size: 35px;
+    margin: 20px 0px;
+    color: black;
+}
+.content button{
+    padding: 30px 70px;
+    font-size: 30px;
+    color: white;
+    background-color: blue;
+    transition:  all 0.2s;
+}
+.content button:hover{
+    background-color: green;
+}
